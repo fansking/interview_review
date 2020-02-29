@@ -1,6 +1,10 @@
 # interview_review
 my experience and review material of interview for finding job
 
+推荐几本复习用书: 《Java并发编程的艺术》《MySQL技术内幕:InnoDB存储引擎》《Tomcat内核设计剖析》《看透Spring MVC》《剑指offer》《深入理解jvm虚拟机》
+
+如果觉得看书太慢且效率不高也可以直接看网课，b站上有很多。
+
 ### 字节跳动-效率工程后端开发一面
 
 -----------
